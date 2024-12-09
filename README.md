@@ -1,1 +1,1 @@
-This is my learning path insports programming
+This is my learning path in sports programming
